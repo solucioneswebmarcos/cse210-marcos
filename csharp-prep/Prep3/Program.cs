@@ -23,7 +23,7 @@ class Program
             }
         }
 
-        Console.WriteLine("You guessed it!");
+        Console.WriteLine("it is correct!");
 
     }
 }
